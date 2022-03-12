@@ -8,5 +8,4 @@ public class teste1 {
 
     // Teste verifica
 
-    // T2
 }
